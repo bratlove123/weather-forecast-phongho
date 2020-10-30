@@ -1,0 +1,10 @@
+{
+  "name": "phong-ho-assignments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Phong Ho",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
